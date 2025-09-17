@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(39, 85, 122);
+}
+
+
+h1 {
+    width: 800px;
+    height: 200px;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url(img/nyakotan.jpg);
+    
+}
+
+.images {
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 40px;
+    display: flex;
+    background-color: rgb(7, 25, 109);
+}
+
+.img {
+    width: 580px;
+    height: 600px;
+    object-fit: cover;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+.vid {
+    width: 600px;
+    margin-top: 40px;
+
+}
+
+.audio p {
+    background-color: blueviolet;
+    width: 100px;
+    height: 20px;
+    border-radius: 20px;
+}
